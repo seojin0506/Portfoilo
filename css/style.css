@@ -18,7 +18,7 @@ address, em, i {font-style: normal;}
 a:focus {outline: none}
 button:focus {outline: none}
 
-body{min-height: 100vh;  overflow-x: hidden; scroll-behavior: smooth; }
+body{min-height: 100vh;  overflow-x: hidden; scroll-behavior: smooth; background: red;}
 .wrap{margin: 0 auto;   }
 .en{font-family: 'Poppins', sans-serif;}
 .en2{font-family: 'Pretendard',sans-serif;}
