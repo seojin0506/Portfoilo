@@ -1,0 +1,17 @@
+<section class="works">
+       
+            <div class="scroll-wrapper">
+                <div class="main01">
+                <div class="inner">
+                    <p class="en">featured<br><span>Works</span></p>
+                    <img src="img/works-main01.svg" alt="">
+                </div>
+                <div class="main02">
+                    <div class="inner">
+                        <p class="en">featured<br><span>Works</span></p>
+                        <img src="img/works-main02.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
